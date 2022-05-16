@@ -1,7 +1,5 @@
 import styled from 'styled-components';
 
-// aqui representa o sistema de grid da aplicação.
-
 interface GridProps {
   hasPadding?: boolean;
 }
