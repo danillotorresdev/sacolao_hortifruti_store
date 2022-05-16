@@ -56,10 +56,6 @@ $ yarn start
 
 ```
 
-## 🤔 How to contribute
-
-**Follow the steps below**
-
 [ReactJS](https://reactjs.org/)
 ## 📝 License
 
