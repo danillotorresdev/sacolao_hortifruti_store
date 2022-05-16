@@ -19,9 +19,6 @@
 
 </br>
 
-## ✌️ About the project
-  Please go to [History.md](https://github.com/SelecaoGlobocom/DanilloTorres/blob/main/globo-code-challenge/HISTORY.md) to know more about this project;
-
 ## 🚀 Technologies
 
 Technologies that I used to develop this web client
