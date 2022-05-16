@@ -1,0 +1,34 @@
+{
+  "availableFruits": [
+    {
+      "name": "Maçã",
+      "unityPrice": 2.99,
+      "id": "1",
+      "image": "https://www.seekpng.com/png/detail/761-7612395_apple-png-image-download-apple-jpeg.png"
+    },
+    {
+      "name": "Pera",
+      "unityPrice": 3.99,
+      "id": "2",
+      "image": "https://i.pinimg.com/originals/24/21/5a/24215af3ee05ce78f6ded7647798dd15.jpg"
+    },
+    {
+      "name": "Banana",
+      "unityPrice": 4.99,
+      "id": "3",
+      "image": "https://www.imagensempng.com.br/wp-content/uploads/2021/08/Banana-Png-1024x1024.png"
+    },
+    {
+      "name": "Abacaxi",
+      "unityPrice": 5.99,
+      "id": "4",
+      "image": "https://www.nicepng.com/png/detail/380-3807920_pineapple-png.png"
+    },
+    {
+      "name": "Mamão",
+      "unityPrice": 6.99,
+      "id": "5",
+      "image": "https://img2.gratispng.com/20180612/uze/kisspng-mango-tropical-fruit-juice-drupe-mangue-5b204b6946a0d6.3416379715288431132893.jpg"
+    }
+  ]
+}
