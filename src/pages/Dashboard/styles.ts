@@ -204,4 +204,7 @@ export const ButtonWrapper = styled.div`
 
 export const CheckoutModalButon = styled.button`
   color: #fff;
+  &:disabled {
+    opacity: 0.5;
+  }
 `;
