@@ -20,7 +20,7 @@
 </br>
 
 
-## 🔐 To sign in in the system you can use these credentials:**
+## 🔐 To sign in you can use these credentials:**
 
 ```bash
   user: danillo@company.com
